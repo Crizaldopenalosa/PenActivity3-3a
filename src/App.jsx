@@ -27,7 +27,7 @@ function Contact() {
     <div className="page">
       <h1>Contact Page</h1>
       <p>
-        You can reach us at <strong>contact@example.com</strong>. 
+        You can reach us at <strong>contact.com</strong>. 
         We’d love to hear your feedback about this demo project!
       </p>
     </div>
